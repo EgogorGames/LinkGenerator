@@ -1,7 +1,7 @@
 ![cooltext426794131219732f](https://user-images.githubusercontent.com/108934310/210670899-6134d317-722e-4e76-9580-231a6bac45a6.png)
 
 # LinkGenerator
-This is a cool generator what can generate links, developed by **EgogorGames*(Me)***!
+This is a cool generator what can generate links, developed by **EgogorGames(*Me*)**!
 
 # Notes
 - Please use this app only in web programming or other good things; don't use it for hacking secret links, etc.
